@@ -1,0 +1,31 @@
+/* navbar */
+.font{
+    font-family: poppins;
+    color: rgb(255, 255, 255);
+}
+.background{
+    width: 100%;
+    background-color: #264653;
+}
+/* navbar end */
+
+/* Client Review */
+.another-color{
+    color: #E76F51;
+}
+.client{
+    margin-top: 150px;
+}
+img.color{
+    filter: grayscale(100%);
+}
+
+/* Footer */
+.background-footer{
+    background-color: #0B0D17;
+    font-family: arial;
+    color: white;
+}
+img.file-size{
+    width: 135px;
+}
